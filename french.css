@@ -1,0 +1,34 @@
+
+*{
+    text-align: center; 
+   }
+ h2[value="6"]
+ {
+    color: blueviolet;
+ }
+ h2[value="5"]
+ {
+    color:rgb(179, 222, 103);
+ }
+ h2[value="4"]
+ {
+    color:darkgreen;
+ }
+ h2[value="3"]
+ {
+    color:crimson;
+ }
+ h2[value="2"]
+ {
+    color:brown;
+ }
+ h2[value="1"]
+ {
+    color:deeppink;
+ }
+ body {
+    background-color:darkgray
+  }
+  h1{
+    color: aqua;
+  }
